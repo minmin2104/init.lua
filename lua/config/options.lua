@@ -11,6 +11,8 @@ vim.opt.undofile = true
 
 vim.opt.colorcolumn = "80"
 
+vim.opt.guicursor = ""
+
 vim.opt.hlsearch = false
 vim.opt.incsearch = true
 vim.opt.wrap = false
