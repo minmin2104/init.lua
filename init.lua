@@ -1,3 +1,3 @@
 require("config.lazy")
 
-vim.cmd.colorscheme("slate")
+vim.cmd.colorscheme("vim")

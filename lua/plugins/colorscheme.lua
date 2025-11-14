@@ -1,3 +1,4 @@
 return {
-	"jacoborus/tender.vim"
+	"jacoborus/tender.vim",
+	"jnz/studio98"
 }
